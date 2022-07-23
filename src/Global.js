@@ -23,7 +23,7 @@ body{
   width: 500px;
   padding: 1em;
   margin: 1em;
-  border: 1px solid #000;
+  border: 1px solid #eead2d;
   display: flex;
   justify-content: space-around;
   background-color: #ccc;
